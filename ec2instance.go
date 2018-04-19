@@ -1,3 +1,6 @@
+// Newly created repository ec2instance.go version
+// AWS-SDK-for-GO
+// ***********************************************
 package main
 
 import (
